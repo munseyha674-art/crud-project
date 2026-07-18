@@ -1,4 +1,4 @@
-<?php
+<?php // REST API finalized
 
 namespace App\Http\Controllers\Api;
 
