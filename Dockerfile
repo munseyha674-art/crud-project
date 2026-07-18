@@ -1,4 +1,6 @@
+
 # Docker and Kubernetes setup finalized
+
 FROM php:8.4-apache
 
 # Install PHP extensions Laravel needs
