@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <!-- CRUD interface finalized -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
