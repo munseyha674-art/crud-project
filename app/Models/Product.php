@@ -1,4 +1,4 @@
-<?php
+<?php // Product model finalized
 
 namespace App\Models;
 
